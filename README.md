@@ -5,17 +5,15 @@ Hello! I'm Diazhttps, a passionate developer, and technology enthusiast. I love 
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning new frameworks and improving my skills in [your interests, e.g., AI, web development, etc.].
+- 🌱 I’m currently learning new frameworks and improving my skills in  web development, etc.
 - 💼 I’m open to collaborating on interesting projects and innovative ideas.
 - 💬 Ask me about technology, programming, or anything you'd like to know!
-- 📫 How to reach me: [your email or social media handle].
+- 📫 How to reach me: andresdiaz5693@gmail.com .
 
 ---
 
 ## 🛠️ Skills & Technologies
-- **Languages:** [List programming languages, e.g., JavaScript, Python, etc.]
-- **Frameworks/Libraries:** [List frameworks/libraries, e.g., React, Django, etc.]
-- **Tools:** [List tools, e.g., Git, Docker, etc.]
+- **Languages:** JavaScript, Python, HTML, CSS.
 
 ---
 
